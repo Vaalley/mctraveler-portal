@@ -7,6 +7,7 @@ import NotepadFeature from './NotepadFeature';
 import RegionFeature from './RegionFeature';
 import SwitchFeature from './SwitchFeature';
 import TabListFeature from './TabListFeature';
+import TeleportationCrystalFeature from './TeleportationCrystalFeature';
 import TravelPatchFeature from './TravelPatchFeature';
 
 export default [
@@ -19,5 +20,6 @@ export default [
   NotepadFeature,
   RegionFeature,
   TravelPatchFeature,
+  TeleportationCrystalFeature,
   AdminFeature,
 ];
